@@ -1,8 +1,8 @@
 # dio-formacao-sql-databse-specialist
 
-Banco de Dados E-commerce
+Banco de Dados E-commerce --> DER_eCommerce.png
 
-Este repositório contém a modelagem e a estrutura lógica de um banco de dados relacional para um sistema de e-commerce, conforme o Diagrama Entidade-Relacionamento (DER) anexo.
+Este repositório contém a modelagem e a estrutura lógica de um banco de dados relacional para um sistema de e-commerce, conforme o Diagrama Entidade-Relacionamento (DER) anexo (DER_eCommerce.png).
 
 O modelo foi concebido para suportar múltiplos clientes, plataformas, parceiros comerciais, pedidos, produtos, estoque e diferentes formas de pagamento, utilizando princípios clássicos de modelagem conceitual e lógica.
 
